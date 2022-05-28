@@ -1,4 +1,8 @@
 # Web scraping IMDb website using Python and Beautiful Soup
+
+![image](https://user-images.githubusercontent.com/69722333/170834236-14b701af-fdce-40e4-9666-9d249d2fc4aa.png)
+
+
 Web scraping IMDb website using Requests and Beautiful Soup
 
 check out the Jupyter notebook here: https://jovian.ai/ram9008478075/scraping-imdb-data-using-python-beautifulsoup
